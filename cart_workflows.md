@@ -69,12 +69,6 @@ https://www.figma.com/proto/TQHONTvvjdnSmeR6TeoejF/20221210?node-id=10%3A184&sca
 
 ```json
 {
-  "dish_name": "Signature Sliced Fish Soup",
-  "quantity": "Signature Sliced Fish Soup",
-}
-```
-```json
-{
   "vendor_id": "R00001",
   "vendor_name": "Golden Mile Fish Porridge & Seafood Soup"
   "dish": [
